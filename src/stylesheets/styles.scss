@@ -1,0 +1,13 @@
+$bg-success: #329932;
+$fg-scuccess: #006600;
+$bg-error:#ff3232;
+$fg-error: #cc0000;
+
+.success {
+	background: $bg-success;
+	color: $fg-scuccess;
+}
+.error {
+	background: $bg-error;
+	color: $fg-error;
+}
